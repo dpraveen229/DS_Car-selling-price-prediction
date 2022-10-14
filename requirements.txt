@@ -103,3 +103,4 @@ widgetsnbextension @ file:///C:/ci/widgetsnbextension_1645009553925/work
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
 wincertstore==0.2
 zipp @ file:///C:/ci/zipp_1652274072582/work
+gunicorn
